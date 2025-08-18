@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Hong Kong"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Zijian Wang's Homepage"
 title_separator          : "-"
 name                     : &name "WANG Zijian"
 description              : &description "personal description"
